@@ -1,0 +1,47 @@
+#header {
+	background-color: #222222;
+	text-align: center;
+	padding: 10px;
+}
+
+#block {
+	height: 30px;
+}
+
+.separate {
+}
+
+table {
+	padding-left: 50px;
+	padding-right: 50px;
+	margin-top: 12px;
+	margin-bottom: 12px;
+	height: 300px;
+	width: 100%;
+}
+
+.left {
+	width: 200px;
+}
+
+.1 {
+	background-color: #F5F5F5;
+}
+
+.aShow .poster {
+	padding: 10px;
+	height: 300px;
+	width: 200px;
+}
+
+.title {
+	padding-left: 40px;
+	padding-rignt: 40px;
+	height: 30px;
+}
+
+.overview {
+	padding-left: 40px;
+	padding-right: 40px;
+	height: 270px;
+}
